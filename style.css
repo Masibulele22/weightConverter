@@ -1,0 +1,48 @@
+html, body {
+    background-color: black;
+    height: 100vh;
+    display: block;
+    align-items: center;
+    margin-left: 200px;
+}
+
+#weightConverterName {
+    text-align: center;
+    margin-left: 60px;
+}
+
+#weightButton {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#poundsDiv {
+    background-color: blue;
+}
+
+#ouncesDiv {
+    background-color: green;
+}
+
+#gramsDiv {
+    background-color: red;
+}
+
+#poundsDisplay {
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+#ouncesDisplay {
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+#gramsDisplay {
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+span {
+    height: 40px;
+}
